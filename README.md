@@ -1,5 +1,5 @@
 
-<img src="https://media.tenor.com/juo3qdny8OEAAAAC/uchiha-madara-leador-of-uchiha.gif" alt="MasterHead" style="border-radius: 50%; border: 5px solid #007acc; width: 100vw; height: 400px;" />
+<img src="https://gifsec.com/wp-content/uploads/2022/10/naruto-gif-18.gif" alt="MasterHead" style="border-radius: 50%; border: 5px solid #007acc; width: 100vw; height: 400px;" />
 <h1 align="center">Hi 👋, I'm Emmanuel Gyang</h1>
 <h3 align="center">A passionate full-stack developer from Ghana.</h3>
 
